@@ -3,9 +3,10 @@
 Меня зовут Дарья.
 Я студентка государственного университета Молдовы, изучаю **программирование** и увлекаюсь **дизайном**.
 
-<img src="images/photo1.jpg" alt="тут Анфиса(кошка)" width="150"/>
-<img src="images/photo2.jpg" alt="тут я" width="150"/>
-<img src="images/photo3.jpg" alt="тут я в Турции" width="150"/>
+![тут Анфиса(кошка)](images/photo1.jpg){width=150px}
+![тут я](images/photo2.jpg){width=150px}
+![тут я в Турции](images/photo3.jpg){width=150px}
+
 
 
 ##  О себе
